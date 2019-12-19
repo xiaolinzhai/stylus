@@ -1,8 +1,8 @@
 {
-  "name": "stylus",
+  "name": "stylus-alin",
   "description": "Robust, expressive, and feature-rich CSS superset",
-  "version": "0.54.6",
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "version": "0.54.7",
+  "author": "alin",
   "keywords": [
     "css",
     "parser",
@@ -21,7 +21,7 @@
     "node": "*"
   },
   "bin": {
-    "stylus": "./bin/stylus"
+    "stylus": "bin/stylus-alin"
   },
   "scripts": {
     "prepublish": "npm prune",
